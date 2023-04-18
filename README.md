@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Weily Lang
-# Early-career research scientist turned engineer.
+# I like building nice things for people to use. 
 
 <!--
 **weilyl/weilyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
